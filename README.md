@@ -12,6 +12,8 @@ We will introduce all knowledges of artificial intelligence system infrastructur
 
 # Distributed Learning 分布式训练技术
 - [Horovod: Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.](https://github.com/horovod/horovod)
+- [fluid: an open source Kubernetes-native Distributed Dataset Orchestrator and Accelerator for data-intensive applications, such as big data and AI applications. ](https://github.com/fluid-cloudnative/fluid)
     
 # MLDevops 
 - [kubeflow: Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)
+- [Argo-workflows: Workflow engine for Kubernetes](https://github.com/argoproj/argo-workflows)
