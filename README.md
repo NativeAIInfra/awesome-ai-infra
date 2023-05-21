@@ -20,3 +20,4 @@ We will introduce all knowledges of artificial intelligence system infrastructur
 - [kubeflow: Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)
 - [Argo-workflows: Workflow engine for Kubernetes](https://github.com/argoproj/argo-workflows)
 
+# heterogeneous computing 异构计算
